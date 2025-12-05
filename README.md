@@ -4,7 +4,7 @@
 
 ## 2025-12-03_Kris Wilson
 
-![2025-12-03_Kris Wilson](data/2025-12-03/2025-12-03_Kris Wilson.png)
+![2025-12-03_Kris Wilson](/data/2025-12-03/2025-12-03_Kris Wilson.png)
 
 ---
 
