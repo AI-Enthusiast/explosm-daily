@@ -42,6 +42,9 @@ def get_most_recent_comic():
     # Return relative path from project root
     rel_image_path = os.path.relpath(image_path, project_root)
 
+    # URL-encode spaces for GitHub compatibility
+    rel_image_path = rel_image_path.replace(' ', '%20')
+
     return (most_recent_date, comic_title, rel_image_path)
 
 
